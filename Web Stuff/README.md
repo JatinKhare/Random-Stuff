@@ -1,1 +1,1 @@
-Random Web Pages.
+Random Web Pages ( Front end only )
