@@ -1,0 +1,23 @@
+.image{
+	background: url(Images/kyle-cesmat-1088051-unsplash.jpg);
+	width: 100%;
+	height: 235px;
+	background-size: cover;
+	background-position: center;
+}
+body{
+	padding-top: 70px;
+}
+.jumbotron{
+	color: #2c3e50;
+	background: #ecf0f1;
+}
+.navbar-inverse{
+	background: #2c3e50;
+}
+.navbar-inverse .navbar-nav>li>a{
+	color: white;
+}
+.navbar-inverse .navbar-brand{
+	color: white;
+}
