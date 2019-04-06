@@ -1,2 +1,2 @@
 # Random-Stuff
-Random Web Pages , Scripts , Solutions , etc.
+Random Web Pages, Scripts, Solutions, etc.
