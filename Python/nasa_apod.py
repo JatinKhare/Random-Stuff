@@ -7,7 +7,7 @@ info = requests.get('https://api.nasa.gov/planetary/apod?api_key=YOUR_NASA_API_K
 date = eval(info)['date']
 information = eval(info)['explanation']
 title = eval(info)['title']
-msg = '**{}**\n'.format(title) + '**{}**\n'.format(date) + information 
+
 url = None
 try:
 	url = eval(info)['hdurl']
